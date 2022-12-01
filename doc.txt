@@ -1,0 +1,9 @@
+psd to html responsive with bootstrap
+
+Color:
+	Black #010101
+	Light Black #313841
+	Grey #898989
+	Yellow #fcdb00
+
+	We are available through our app, email or direct contact from a.m to p.m to provide you with best taxi service. Any suggestion or queries are highly appreciable.
